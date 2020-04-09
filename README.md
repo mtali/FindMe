@@ -23,12 +23,10 @@ Tiling mode defines in <code>Shader</code> specifies how bitmap drawable is repe
 
 ## Screenshots
 Instruction Screen
-
-![](https://github.com/mtali/FindMe/blob/master/screenshots/instruction_screen.png)
+<img src="https://github.com/mtali/FindMe/blob/master/screenshots/instruction_screen.png" width="300">
 
 Game Screen
-
-![](https://github.com/mtali/FindMe/blob/master/screenshots/game_screen.png)
+<img src="https://github.com/mtali/FindMe/blob/master/screenshots/game_screen.png" width="300">
 
 
 
